@@ -93,3 +93,41 @@ export const subSection2 = [
         details: `It's all about getting your message in front of the right audience and creating those valuable relationships. Learn More about how DOML can help you do just that - all with a simple, easy-to-use platform.`
     }
 ]
+
+export const team = [
+    {
+        team: '/team.png',
+        social: '/social.png',
+        detail: `It's all about getting your message in front of the right audience and creating those valuable relationships. Learn More about how DOML can help you do just that - all with a simple, easy-to-use platform.`,
+        name: 'Amaka Micheal',
+        title: 'Media Executive, Buying & Control'
+    },
+    {
+        team: '/team.png',
+        social: '/social.png',
+        detail: `It's all about getting your message in front of the right audience and creating those valuable relationships. Learn More about how DOML can help you do just that - all with a simple, easy-to-use platform.`,
+        name: 'Amaka Micheal',
+        title: 'Media Executive, Buying & Control'
+    },
+    {
+        team: '/team.png',
+        social: '/social.png',
+        detail: `It's all about getting your message in front of the right audience and creating those valuable relationships. Learn More about how DOML can help you do just that - all with a simple, easy-to-use platform.`,
+        name: 'Amaka Micheal',
+        title: 'Media Executive, Buying & Control'
+    },
+    {
+        team: '/team.png',
+        social: '/social.png',
+        detail: `It's all about getting your message in front of the right audience and creating those valuable relationships. Learn More about how DOML can help you do just that - all with a simple, easy-to-use platform.`,
+        name: 'Amaka Micheal',
+        title: 'Media Executive, Buying & Control'
+    },
+    {
+        team: '/team.png',
+        social: '/social.png',
+        detail: `It's all about getting your message in front of the right audience and creating those valuable relationships. Learn More about how DOML can help you do just that - all with a simple, easy-to-use platform.`,
+        name: 'Amaka Micheal',
+        title: 'Media Executive, Buying & Control'
+    }
+]

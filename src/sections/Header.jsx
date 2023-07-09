@@ -7,9 +7,9 @@ const Header = () => {
   return (
     <header className="h-[100svh]">
       <Navbar />
-      <div className="lg:flex lg:flex-row-reverse h-[88%] lg:justify-center lg:items-center lg:px-10 xl:px-20 lg:gap-4 xl:gap-10">
+      <div className="lg:flex lg:flex-row-reverse h-[88%] flex flex-col justify-center md:gap-4 lg:justify-center lg:items-center lg:px-10 xl:px-20 lg:gap-4 xl:gap-10">
         <div className="flex justify-center items-center">
-          <img src="/header.png" alt="header" className="h-[280px] lg:w-[450px] lg:h-auto" />
+          <img src="/header.png" alt="header" className="h-[280px] md:w-[400px] md:h-auto lg:w-[450px]" />
         </div>
         <div className="lg:flex lg:flex-col lg:gap-6">
           <div className="mt-4 lg:mt-0 lg:flex lg:flex-col">
